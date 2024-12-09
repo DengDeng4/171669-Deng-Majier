@@ -29,7 +29,7 @@ int main() {
             cout << "Result: " << num1 * num2 << endl;
             break;
         case '/':
-            if (num2 != 0) {
+         
                 cout << "Result: " << num1 / num2 << endl;
             } else {
                 cout << "Error: Division by zero is not allowed." << endl;
